@@ -44,4 +44,4 @@ Python was used for data processing, primarily with pandas for data manipulation
 
 ## Notes
 
-The structure of this project reflects how I would approach a real-world data task, focusing on clarity, reproducibility, and making it easy for someone else to follow the work.
+The structure of this project reflects how I would approach real and practical data task, while focusing on clarity, reproducibility, and making it easy for someone else to follow the work.
